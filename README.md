@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi 👋, I'm Rupeshwari Kumari
 
-<!--
-**rupeshwarik04/rupeshwarik04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year CSE Student
+💻 Aspiring Software Developer
+🚀 Passionate about building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Web Development
+* Backend Development
+
+---
+
+## 🛠️ Skills
+
+* **Languages:** Java, Python, SQL
+* **Tools:** Git, GitHub, VS Code, IntelliJ
+* **Concepts:** DBMS, OOP, DSA
+
+---
+
+## 🚀 Projects
+
+* 🧠 Quiz App
+* 🧮 Scientific Calculator
+* 🔗 Java REST API
+* 📊 DBMS Gym Management System
+
+---
+
+## 📈 GitHub Stats
+
+![Rupeshwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupeshwarik04\&show_icons=true\&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: (add your link)
+* Email: (add your email)
+
+---
+
+⭐️ Thanks for visiting my profile!
