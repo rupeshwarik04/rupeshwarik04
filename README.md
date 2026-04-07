@@ -39,8 +39,8 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: (add your link)
-* Email: (add your email)
+* LinkedIn: (https://www.linkedin.com/in/rupeshwari-kumari-a27422329?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* Email: (rupeshwarik04@gmail.com)
 
 ---
 
