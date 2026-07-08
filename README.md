@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rupeshwari Kumari
 
-🎓 3rd Year CSE Student
+🎓 4th Year CSE Student
 💻 Aspiring Software Developer
 🚀 Passionate about building real-world projects
 
